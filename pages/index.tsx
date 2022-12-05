@@ -65,8 +65,8 @@ const Home: NextPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <span className={styles.logo}>
+          Powered by N3WJ.COM
+          
             
           </span>
         </a>
