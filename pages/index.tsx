@@ -14,18 +14,19 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://n3wj.com">N3WJ.COM</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.tsx</code>
+          N3WJ.com देश विदेश से जुड़ी सभी प्रमुख ख़बरों को हिन्दी भाषा में आप तक पहुँचाने का एक माध्यम है
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="https://n3wj.com/%e0%a4%aa%e0%a5%8b%e0%a4%b2%e0%a5%88%e0%a4%82%e0%a4%a1-%e0%a4%aa%e0%a4%b0-%e0%a4%ae%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%87%e0%a4%b2-%e0%a4%b8%e0%a5%87-%e0%a4%b9%e0%a4%ae%e0%a4%b2%e0%a4%be-2-%e0%a4%95/" className={styles.card}>
+            <h2>पोलैंड पर मिसाइल से हमला 2 की मौत
+ &rarr;</h2>
+            <p>पोलैंड पर मिसाइल से हमला 2 की मौत
+</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
