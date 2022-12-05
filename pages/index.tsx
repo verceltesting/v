@@ -29,26 +29,31 @@ const Home: NextPage = () => {
 </p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <a href="https://n3wj.com/%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be-%e0%a4%af%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7-%e0%a4%95%e0%a5%80-%e0%a4%a4%e0%a5%88%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%95%e0%a4%b0%e0%a4%a8/" className={styles.card}>
+            <h2>अपनी सारी ऊर्जा युद्ध की तैयारी करने में लगा दें
+ &rarr;</h2>
+            <p>अपनी सारी ऊर्जा युद्ध की तैयारी करने में लगा दें
+</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://n3wj.com/9-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af%e0%a5%8b%e0%a4%82-%e0%a4%95%e0%a5%80-%e0%a4%ad%e0%a5%80%e0%a4%b7%e0%a4%a3-%e0%a4%86%e0%a4%97-%e0%a4%b8%e0%a5%87-%e0%a4%ae%e0%a4%be%e0%a4%b2/"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>9 भारतीयों की भीषण आग से मालदीव में मौत
+ &rarr;</h2>
+            <p>9 भारतीयों की भीषण आग से मालदीव में मौत
+</p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://n3wj.com/%e0%a4%a4%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%95%e0%a5%80-%e0%a4%ac%e0%a5%89%e0%a4%ae-%e0%a4%ac%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%9f/"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>इस्लामिक देश में फिर से बॉम ब्लास्ट – तुर्की बॉम ब्लास्ट
+ &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              इस्लामिक देश में फिर से बॉम ब्लास्ट – तुर्की बॉम ब्लास्ट
             </p>
           </a>
         </div>
@@ -56,13 +61,13 @@ const Home: NextPage = () => {
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://n3wj.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+            
           </span>
         </a>
       </footer>
